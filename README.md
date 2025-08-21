@@ -92,7 +92,7 @@ mov CX,2525H
 
 mul CX
 mov [2004H],AX
-mov AX,2325H
+mov AX,0F325H
 mov CL,05H
 
 div CL
